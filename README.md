@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there , I'm Danny</h1>
-<h3 align="center">Ethical Pentester • Programmer • Linux Power User</h3>
+<h3 align="center">Ethical Pentester • Programmer • Linux User</h3>
 
 ---
 
