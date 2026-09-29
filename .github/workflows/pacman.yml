@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Pacman contribution graph
+      - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate Pacman contribution graph"
-          add: "output"
+      - name: Check generated files
+        run: |
+          echo "Archivos generados:"
+          find . -maxdepth 3 -type f | sort
