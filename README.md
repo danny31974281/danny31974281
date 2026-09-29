@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV6dnY0MWp5MmtkOTMxYmYzcThmZnFqZ2NsbW81dnZpazg5cmw2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlNUVWjiZ6wKY/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi there , I'm Danny</h1>
+<h1 align="center">Hi there, I'm Danny</h1>
 <h3 align="center">Ethical Pentester • Programmer • Linux User</h3>
 
 <p align="center">
@@ -24,14 +24,14 @@
 
 ## 👨‍💻 About Me
 
-Soy un desarrollador y pentester ético con experiencia en:
+I'm a developer and ethical pentester with experience in:
 
-* 🔐 Ciberseguridad y análisis de vulnerabilidades
-* 🐧 Linux avanzado (Kali, Debian, Arch, Ubuntu)
-* 💻 Programación backend y scripting
-* 🗄️ Bases de datos MySQL y PostgreSQL
-* ⚙️ Automatización y herramientas de seguridad
-* 🧩 Networking, sistemas y optimización
+* 🔐 Cybersecurity and vulnerability analysis
+* 🐧 Advanced Linux (Kali, Debian, Arch, Ubuntu)
+* 💻 Backend programming and scripting
+* 🗄️ MySQL and PostgreSQL databases
+* ⚙️ Automation and security tools
+* 🧩 Networking, systems and optimization
 
 </td>
     <td valign="top" width="40%">
