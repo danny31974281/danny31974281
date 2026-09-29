@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#-about-me">👨‍💻 About Me</a> •
-  <a href="#-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#️-tech-stack">🛠️ Tech Stack</a> •
   <a href="#-contribution-graph">👾 Contribution Graph</a> •
   <a href="#-what-im-working-on">🚀 Working On</a>
 </p>
@@ -94,17 +94,11 @@ Soy un desarrollador y pentester ético con experiencia en:
 ## 👾 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
-
-    <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
