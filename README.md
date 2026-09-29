@@ -1,4 +1,4 @@
-<!-- HEADER -->
+\<!-- HEADER -->
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV6dnY0MWp5MmtkOTMxYmYzcThmZnFqZ2NsbW81dnZpazg5cmw2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlNUVWjiZ6wKY/giphy.gif" width="600"/>
@@ -58,31 +58,31 @@ Soy un desarrollador y pentester ético con experiencia en:
   <tr>
     <td align="center" width="25%"><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,cs,go,js,ts" />
+      <img src="https://skillicons.dev/icons?i=python,react,c,cpp,cs,go,rust,js,ts,php,powershell" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Web & Frameworks</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,django,nodejs" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,angular,django,flask,fastapi,nodejs,express" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Cybersecurity & Linux</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,bash" />
+      <img src="https://skillicons.dev/icons?i=linux,kali,arch,debian,ubuntu,bash" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,figma,ps,arduino" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,postman,nginx,figma,ps,arduino" />
     </td>
   </tr>
 </table>
