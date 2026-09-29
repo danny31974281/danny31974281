@@ -70,13 +70,7 @@ Soy un desarrollador y pentester ético con experiencia en:
 
 ---
 
-# 📊 Statistics
 
-### **GitHub Stats (A++)**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danny31974281&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" width="450"/>
-</p>
 
 ### 👾 Pac-Man Contribution Graph
 
