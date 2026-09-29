@@ -1,4 +1,4 @@
-\<!-- HEADER -->
+<!-- HEADER -->
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV6dnY0MWp5MmtkOTMxYmYzcThmZnFqZ2NsbW81dnZpazg5cmw2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlNUVWjiZ6wKY/giphy.gif" width="600"/>
@@ -64,7 +64,7 @@ Soy un desarrollador y pentester ético con experiencia en:
   <tr>
     <td align="center"><b>Web & Frameworks</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,angular,django,flask,fastapi,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,angular,django,fastapi,nodejs" />
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Soy un desarrollador y pentester ético con experiencia en:
   <tr>
     <td align="center"><b>Tools</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,postman,nginx,figma,ps,arduino" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,figma,ps,arduino" />
     </td>
   </tr>
 </table>
