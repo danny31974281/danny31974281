@@ -7,9 +7,22 @@
 <h1 align="center">Hi there , I'm Danny</h1>
 <h3 align="center">Ethical Pentester • Programmer • Linux User</h3>
 
+<p align="center">
+  <a href="#-about-me">👨‍💻 About Me</a> •
+  <a href="#-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#-contribution-graph">👾 Contribution Graph</a> •
+  <a href="#-what-im-working-on">🚀 Working On</a>
+</p>
+
 ---
 
-# 👨‍💻 About Me
+<!-- ABOUT + WORKING ON -->
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="60%">
+
+## 👨‍💻 About Me
 
 Soy un desarrollador y pentester ético con experiencia en:
 
@@ -20,79 +33,79 @@ Soy un desarrollador y pentester ético con experiencia en:
 * ⚙️ Automatización y herramientas de seguridad
 * 🧩 Networking, sistemas y optimización
 
----
+</td>
+    <td valign="top" width="40%">
 
-# 🛠️ Tech Stack
-
-### **Languages**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
-
-### **Web & Frameworks**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-
-### **Cybersecurity & Linux**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-</p>
-
-### **Databases**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
-
-### **Tools**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-</p>
-
----
-
-
-
-### 👾 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
-
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
-</picture>
-
-# 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
 * Pentesting tools
 * Linux automation
 * Backend scripting
 * Network analysis
 * Secure development
+
+</td>
+  </tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+
+## 🛠️ Tech Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp,cs,go,js,ts" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web & Frameworks</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,django,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cybersecurity & Linux</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,bash" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,figma,ps,arduino" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+## 👾 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
+
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
