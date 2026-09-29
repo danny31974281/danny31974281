@@ -78,23 +78,19 @@ Soy un desarrollador y pentester ético con experiencia en:
   <img src="https://github-readme-stats.vercel.app/api?username=danny31974281&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" width="450"/>
 </p>
 
-### 🎮 Contribution Graph
+### 👾 Pac-Man Contribution Graph
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img
-      alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph-dark.svg">
 
----
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/danny31974281/danny31974281/output/pacman-contribution-graph.svg">
+</picture>
 
 # 🚀 What I'm Working On
 
